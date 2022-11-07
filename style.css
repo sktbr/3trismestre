@@ -10,12 +10,12 @@ main{background-color: #84DE1D;}
     font-size: 18px;
     border: 2px solid black; 
     padding: 10px;
-    margin: 10px 40px 80px 15px;}
+    margin: 10px;}
 .segundoparagrafo{
     text-align: justify;
     font-size: 18px;
     border: 2px solid black;
      padding: 10px;
-     margin: 10px 40px 80px 15px;}
+     margin: 10px;}
 #logoking {width: 2%; height: 2%;}
 #lista {display: inline-block;}
